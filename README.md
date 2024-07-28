@@ -32,7 +32,7 @@ A PHP-based system developed for UDUB Films as part of my System Analysis and De
 ## Fun Facts
 - Tech Girl In Progresss 
 
-![Ruweida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruweidacoding123&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruweidacoding123&layout=compact&theme=radical)
+![Ruweida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruwaidacoding123&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwaidacoding123&layout=compact&theme=radical)
 
 
 
